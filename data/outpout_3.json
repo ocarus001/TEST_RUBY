@@ -1,29 +1,29 @@
 [
   {
     "id": 1,
-    "price": 4600,
+    "price": 4500,
     "commission": {
-      "insurance_fee": 690,
+      "insurance_fee": 675,
       "assistance_fee": 2,
-      "drivy_fee": 688
+      "drivy_fee": 673
     }
   },
   {
     "id": 2,
-    "price": 12700,
+    "price": 12150,
     "commission": {
-      "insurance_fee": 1905,
+      "insurance_fee": 1822,
       "assistance_fee": 4,
-      "drivy_fee": 1901
+      "drivy_fee": 1819
     }
   },
   {
     "id": 3,
-    "price": 7650,
+    "price": 7425,
     "commission": {
-      "insurance_fee": 1147,
+      "insurance_fee": 1113,
       "assistance_fee": 2,
-      "drivy_fee": 1146
+      "drivy_fee": 1112
     }
   }
 ]
